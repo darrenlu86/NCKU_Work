@@ -14,7 +14,7 @@ import random
 
 def CareWord():
     r = random.randint(0, 9)
-    word = ["lalalala,寶貝開喝水摟！不然會變成木乃伊喔",
+    word = ["hohoho,寶貝開喝水摟！不然會變成木乃伊喔",
             "賣偷睏喔～喝杯水打起精神",
             "喝水！不然偶就要餵妳一堆我的口水",
             "寶貝對不起～請妳快喝水～不要讓我傷心",
